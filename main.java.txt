@@ -1,0 +1,6 @@
+class teest(){
+
+  public void demo01(){
+	int=1;
+	}
+}
